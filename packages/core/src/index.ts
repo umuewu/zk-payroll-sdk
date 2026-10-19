@@ -239,4 +239,4 @@ export * from "./schedules";
 // The module lives in `payroll/`; the root barrel points at the real path
 // (it previously referenced a non-existent `./salary-policy`).
 export * from "./payroll/salaryPolicyImpact";
-
+export * from "./payroll/duplicatePayoutInstructionDetector";

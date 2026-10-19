@@ -28,3 +28,4 @@ export * from "./blockedExecutionDiagnostics";
 export * from "./treasuryReserveReleaseValidation";
 export * from "./executionReferenceCollisionGuard";
 export * from "./payrollApprovalQuorumValidator";
+export * from "./duplicatePayoutInstructionDetector";
